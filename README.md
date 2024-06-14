@@ -1,0 +1,3 @@
+This repository contains the code used to run the experiments presented in the paper found in ```/docs```. It also contains plot generation code found in the ```/src/jupyter_notebook``` used to create the figures from the collected data.
+To run the experiments presented in the paper found in ```/docs```, there are several prepared ```.bat``` files present. There are several key command arguments/options that were changed to run different experiments.
+The key ones include: ```--minority```, ```--num_generated```, ```--model```, ```--dirichlet```. More details about these parameters can be seen in ```/src/options.py```.
